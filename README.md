@@ -1,7 +1,8 @@
+<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/yItlPGh.png" /></a>
 ### Hi there 👋
 
-<!--
-**lebe24/lebe24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**<b>Am Emmanuel Lebe</b>** A software engineer a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
