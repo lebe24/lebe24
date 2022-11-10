@@ -1,8 +1,7 @@
-<a href="#"><img style="align:center;background:blue;" width="100%" height="auto" src="https://i.imgur.com/yItlPGh.png" /></a>
-### Hi there 👋
+## Hey  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,over here I'm [Emmanuel!](https://linktr.ee/lebemanuel) 
 
 
-**<b>Am Emmanuel Lebe</b>** A software engineer a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
