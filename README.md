@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,python,dart,solidity)](https://skillicons.dev)
 
  ## Fullstack
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,mongodb,postgres,firebase,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,graphql,nodejs,mongodb,postgres,firebase,figma&theme=dark)](https://skillicons.dev)
 
  ## Mobile
 
@@ -27,6 +27,9 @@
 
  ## Blockchain
  [![My Skills](https://skillicons.dev/icons?i=hardhart,react)](https://skillicons.dev)
+
+  ## Cloud
+ [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 
