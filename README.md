@@ -26,7 +26,7 @@
 
 
  ## Blockchain
- [![My Skills](https://skillicons.dev/icons?i=hardhart,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ethereum,hardhart,react)](https://skillicons.dev)
 
   ## Cloud
  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
