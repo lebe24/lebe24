@@ -5,7 +5,7 @@
 <!-- [Memphis](https://memphis.dev) -->
 
 <p align='center'>
-    <img src="assets/portfolio.png" width="409">
+    <img src="assets/portfolio.png" width="609" height="159">
 </p>
 
 ## 🚀 Dev Summary
