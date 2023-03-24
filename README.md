@@ -1,35 +1,30 @@
-## Hey  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,over here I'm [Emmanuel!](https://linktr.ee/lebemanuel) 
+<p align='center'>
+    Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,over Here!! I'm Emmanuel
+</p>
 
-![](githubimg.png)
+<!-- [Memphis](https://memphis.dev) -->
 
-<!-- Links to Accounts -->
+<p align='center'>
+    <img src="assets/portfolio.png" width="409">
+</p>
 
-<a href="https://twitter.com/emmanuellebe24"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/emmanuelphilipel/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-<br>
+## 🚀 Dev Summary
 
-### Am a passionate  software developer who loves building cool stuffs...
+I am a Passionate Software Engineer building product and ....
 
+## 🔥 My Tool For Mass Destruction
 
-# Tools of Mass Destruction
+- ## Fullstack Web
+  - [![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,graphql,nodejs,mongodb,postgres,python,firebase,stackoverflow,figma&theme=dark)](https://skillicons.dev)
 
-## Language
-[![My Skills](https://skillicons.dev/icons?i=js,python,dart,solidity)](https://skillicons.dev)
+- ## Fullstack Mobile 
+  -  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite)](https://skillicons.dev)
 
- ## Fullstack
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,graphql,nodejs,mongodb,postgres,firebase,figma&theme=dark)](https://skillicons.dev)
+- ## Blockchain
+  -  [![My Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
 
- ## Mobile
-
- [![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
-
-
- ## Blockchain
- [![My Skills](https://skillicons.dev/icons?i=solidity,hardhart,react)](https://skillicons.dev)
-
-  ## Cloud
- [![My Skills](https://skillicons.dev/icons?i=aws,gcd)](https://skillicons.dev)
+- ## Cloud
+  -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 
 
