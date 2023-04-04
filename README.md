@@ -10,7 +10,7 @@
 
 ## 🚀 Dev Summary
 
-I am a Passionate Software Engineer building product and ....
+I am a Passionate Software Engineer building product and learn new things my goal is to build a better world using code.
 
 ## 🔥 My Tool For Mass Destruction
 
