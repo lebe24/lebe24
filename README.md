@@ -1,6 +1,6 @@
-<p align='center'>
+<h2 align='center'>
     Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,over Here!! I'm Emmanuel
-</p>
+</h2>
 
 <!-- [Memphis](https://memphis.dev) -->
 
@@ -25,6 +25,9 @@ I am a Passionate Software Engineer building product and learn new things my goa
 
 - ## Cloud
   -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+
+
+# Contact
 
 
 
