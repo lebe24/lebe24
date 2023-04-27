@@ -10,7 +10,7 @@
 
 ## 🚀 Dev Summary
 
-I am a Passionate Software Engineer building product and learn new things my goal is to build a better world using code.
+  Software developer building innovative and robust web and mobile applications with a strong proficiency in blockchain and web3 technology. I am deeply passionate about utilizing decentralized solutions to effectively address contemporary issues and challenges.
 
 ## 🔥 My Tool For Mass Destruction
 
@@ -27,7 +27,6 @@ I am a Passionate Software Engineer building product and learn new things my goa
   -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 
-# Contact
 
 
 
