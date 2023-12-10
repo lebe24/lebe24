@@ -45,7 +45,15 @@
 * [Crytolyf](https://github.com/lebe24/CryptoLyf) Crypto life expands and collapses to provide users with a unique way to make crypto.
   ![Crytolyf](https://github.com/lebe24/lebe24/assets/31292486/9aea03a1-e1c4-44dd-b736-4c76b07ec9b5)
 
+### 🌼 Musicjam
+![GitHub Repo stars](https://img.shields.io/github/stars/lebe24/Musicjam)
+![GitHub forks](https://img.shields.io/github/forks/lebe24/Musicjam)
+![Static Badge](https://img.shields.io/badge/nextjs-black)
+![Static Badge](https://img.shields.io/badge/js-yellow)
 
+* [PetalMenu](https://github.com/) Music jams allow users to stream and listen to their favorite music online.
+  
+![MusicJAM](https://github.com/lebe24/Musicjam/blob/main/musicjam.png)
 
 
 
