@@ -25,6 +25,25 @@
 
 - ## Cloud
   -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+ 
+## PROJECTS 🛠️
+### 🌼 PetalMenu
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
+![Static Badge](https://img.shields.io/badge/flutter-blue)
+![Static Badge](https://img.shields.io/badge/dart-orange)
+
+* [PetalMenu](https://github.com/) PetalMenu expands and collapses to provide users a unique way to make a selection.
+![Petals Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e238838b-a826-479f-81df-55c8ef35453e)
+
+### 🌼 Cryptolyf
+![GitHub Repo stars](https://img.shields.io/github/stars/lebe24/CryptoLyf)
+![GitHub forks](https://img.shields.io/github/forks/lebe24/CryptoLyf)
+![Static Badge](https://img.shields.io/badge/flutter-blue)
+![Static Badge](https://img.shields.io/badge/dart-orange)
+
+* [Crytolyf](https://github.com/lebe24/CryptoLyf) Crypto life expands and collapses to provide users with a unique way to make crypto.
+  ![Crytolyf](https://github.com/lebe24/lebe24/assets/31292486/9aea03a1-e1c4-44dd-b736-4c76b07ec9b5)
 
 
 
