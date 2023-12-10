@@ -51,7 +51,7 @@
 ![Static Badge](https://img.shields.io/badge/nextjs-black)
 ![Static Badge](https://img.shields.io/badge/js-yellow)
 
-* [PetalMenu](https://github.com/) Music jams allow users to stream and listen to their favorite music online.
+* [musicjam](https://github.com/) Music jams allow users to stream and listen to their favorite music online.
   
 ![MusicJAM](https://github.com/lebe24/Musicjam/blob/main/musicjam.png)
 
