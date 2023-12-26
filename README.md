@@ -35,6 +35,8 @@
 ![Static Badge](https://img.shields.io/badge/flutter-blue)
 ![Static Badge](https://img.shields.io/badge/dart-orange)
 * [Quix](https://github.com/lebe24/Quix) Quix is an AWS Amplify project that showcases how to integrate Amplify. This project is a starting point for a Flutter application..
+
+
 ![Quix](https://github.com/lebe24/lebe24/assets/31292486/2bbeeac6-6552-40a5-b0aa-fd3f16b746b9)
 
 
