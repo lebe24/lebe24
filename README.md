@@ -27,6 +27,15 @@
   -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
  
 ## PROJECTS 🛠️
+
+
+### 🌼 PetalMenu
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
+![Static Badge](https://img.shields.io/badge/flutter-blue)
+![Static Badge](https://img.shields.io/badge/dart-orange)
+
+
 ### 🌼 PetalMenu
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
