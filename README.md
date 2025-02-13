@@ -21,8 +21,7 @@
   -  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite)](https://skillicons.dev)
 
 - ## Blockchain
-  -  [![My Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev) <img src="https://github.com/lebe24/skill-icons/raw/patch-1/icons/Moralis-Dark.svg" width="59">
-
+  -  [![My Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev) 
 - ## Cloud
   -  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
  
