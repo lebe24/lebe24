@@ -1,0 +1,6 @@
+.DS_Store
+
+# tools/ build scaffolding — the generated SVGs in assets/ are what gets committed
+tools/venv/
+tools/fonts/
+tools/__pycache__/
